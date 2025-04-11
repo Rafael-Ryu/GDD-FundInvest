@@ -97,7 +97,7 @@
 
 
 <div align="center">
-    
+
 *FIGURA 1 - As 5 Forças de Porter (BTG Pactual).*
 
 ![imagem forcas porter](/assets/imagens_GDD/5forcasdeporter.png) 
@@ -162,6 +162,7 @@
 *FIGURA 2 - Análise SWOT (BTG Pactual).*
 
 ![imagem swot](/assets/imagens_GDD/swot.png) 
+
 
 <sub>Fonte: Template disponível em Canva, adaptado por Bold & Thrive, 2025.</sub>
 
