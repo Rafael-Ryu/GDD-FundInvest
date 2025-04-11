@@ -163,7 +163,7 @@
 
 *FIGURA 2 - Análise SWOT (BTG Pactual).*
 
-![imagem swot](/assets/imagens_GDD/swot.png) 
+![imagem swot](/assets/imagens_GDD/SWOT.png) 
 
 
 <sub>Fonte: Template disponível em Canva, adaptado por Bold & Thrive, 2025.</sub>
