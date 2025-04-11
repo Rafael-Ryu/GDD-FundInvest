@@ -157,6 +157,8 @@
 
 &emsp; Por outro lado, os aspectos internos dizem respeito a fatores que estão sob o controle direto do projeto, como estrutura organizacional, recursos disponíveis, competências técnicas e processos internos. As forças correspondem a elementos que oferecem vantagens competitivas e diferenciam o projeto no mercado, enquanto as fraquezas representam limitações que podem comprometer seu desempenho ou dificultar sua consolidação. Reconhecer esses pontos permite à equipe agir de forma estratégica, potencializando aquilo que já é positivo e corrigindo fragilidades antes que se tornem entraves ao desenvolvimento.
 
+
+
 <div align="center">
 
 *FIGURA 2 - Análise SWOT (BTG Pactual).*
