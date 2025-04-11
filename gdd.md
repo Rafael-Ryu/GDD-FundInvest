@@ -100,7 +100,7 @@
     
 *FIGURA 1 - As 5 Forças de Porter (BTG Pactual).*
 
-<img src= "../assets/imagens_GDD/5forcasdeporter.jpg"> 
+<img src= "../assets/imagens_GDD/5forcasdeporter.png"> 
 
 
 <sub>Fonte: exmerare.com. | Fonte: Template disponível em Canva, adaptado por Bold & Thrive, 2025.</sub>
@@ -979,7 +979,7 @@ Onde:
 
 *FIGURA 11 - Tela inicial*
 
-![imagem tela inicial](/assets/imagens_GDD/telaInicial.jpeg)
+![imagem tela inicial](/assets/imagens_GDD/telaInicial.png)
 
 <sub>Fonte: autoria própria (2025)</sub>
 
@@ -993,7 +993,7 @@ Onde:
 
 *FIGURA 12 - Tela de configuração*
 
-![imagem tela configurações](/assets/imagens_GDD/configuracoes.jpeg)
+![imagem tela configurações](/assets/imagens_GDD/configuracoes.png)
 
 <sub>Fonte: autoria própria (2025)</sub>
 
@@ -1045,7 +1045,7 @@ Onde:
 
 *FIGURA 16 - Tela de recepção*
 
-![imagem tela recepção](/assets/imagens_GDD/recepcao.jpeg)
+![imagem tela recepção](/assets/imagens_GDD/recepcao.png)
 
 <sub>Fonte: autoria própria (2025)</sub>
 
@@ -1060,7 +1060,7 @@ Onde:
 
 *FIGURA 17 - Tela de conteúdo*
 
-![imagem tela conteúdo](/assets/imagens_GDD/conteudo.jpeg)
+![imagem tela conteúdo](/assets/imagens_GDD/conteudo.png)
 
 <sub>Fonte: autoria própria (2025)</sub>
 
@@ -1073,7 +1073,7 @@ Onde:
 
 *FIGURA 18 - Tela Sala 1*
 
-![imagem tela sala 1](/assets/imagens_GDD/sala2.jpeg)
+![imagem tela sala 1](/assets/imagens_GDD/sala2.png)
 
 <sub>Fonte: autoria própria (2025)</sub>
 
@@ -1086,7 +1086,7 @@ Onde:
 
 *FIGURA 19 - Tela Minigame 1*
 
-![imagem tela minigame 1](/assets/imagens_GDD/minigame1.jpeg)
+![imagem tela minigame 1](/assets/imagens_GDD/minigame1.png)
 
 <sub>Fonte: autoria própria (2025)</sub>
 
@@ -1099,7 +1099,7 @@ Onde:
 
 *FIGURA 20 - Tela Sala 2*
 
-![imagem tela sala 2](/assets/imagens_GDD/sala1.jpeg)
+![imagem tela sala 2](/assets/imagens_GDD/sala1.png)
 
 <sub>Fonte: autoria própria (2025)</sub>
 
@@ -1112,7 +1112,7 @@ Onde:
 
 *FIGURA 21- Tela Minigame 2*
 
-![imagem tela minigame 2](/assets/imagens_GDD/minigame2.jpeg)
+![imagem tela minigame 2](/assets/imagens_GDD/minigame2.png)
 
 <sub>Fonte: autoria própria (2025)</sub>
 
