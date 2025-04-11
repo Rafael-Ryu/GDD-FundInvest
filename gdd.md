@@ -100,7 +100,7 @@
     
 *FIGURA 1 - As 5 Forças de Porter (BTG Pactual).*
 
-<img src= "../assets/imagens_GDD/5forcasdeporter.png"> 
+![imagem forcas porter](/assets/imagens_GDD/5forcasdeporter.png) 
 
 
 <sub>Fonte: exmerare.com. | Fonte: Template disponível em Canva, adaptado por Bold & Thrive, 2025.</sub>
@@ -161,7 +161,7 @@
     
 *FIGURA 2 - Análise SWOT (BTG Pactual).*
 
-<img src= "../assets/imagens_GDD/FORÇAS (1).jpg" > 
+![imagem analise swot](/assets/imagens_GDD/FORÇAS (1).png)
 
 <sub>Fonte: Template disponível em Canva, adaptado por Bold & Thrive, 2025.</sub>
 
@@ -407,7 +407,7 @@ Tarefas dos clientes: aprender sobre a área de fundos de investimento e a cultu
 
 </div>
 
-<img src = "../assets/imagens_GDD/SMART.png">
+![imagem metas smart](/assets/imagens_GDD/SMART.png)
 
 <div align="center">
 <sup>Fonte: Template disponível em Canva, adaptado por Bold & Thrive, 2025.</sup>
@@ -564,8 +564,8 @@ Tarefas dos clientes: aprender sobre a área de fundos de investimento e a cultu
 
 | #  | Nome            | Imagem                 | objetivo              |
 |----|-----------------|------------------------|-----------------------|
-| 1  | Funcionário     | <img src= ../assets/imagens_GDD/funcionario.png> | Este NPC está localizado na sala 2 e está no jogo apenas como cenário, portanto não tem interação com ele|
-| 2  | Boss final      |<img src= ../assets/imagens_GDD/boss.png>|Este NPC está localizado na sala 4 e é o Boss do jogo que vai desafiar as habilidades do jogador |
+| 1  | Funcionário     | ![imagem funcionario](/assets/imagens_GDD/funcionario.png) | Este NPC está localizado na sala 2 e está no jogo apenas como cenário, portanto não tem interação com ele|
+| 2  | Boss final      | ![imagem boss](/assets/imagens_GDD/boss.png)|Este NPC está localizado na sala 4 e é o Boss do jogo que vai desafiar as habilidades do jogador |
 
 ### 3.2.3. Diversidade e Representatividade dos Personagens
 
@@ -629,7 +629,7 @@ A seguir, apresentamos as artes conceituais das salas do primeiro andar, acompan
 
 </div>
 
-<img src = "../assets/imagens_GDD/00677010-3b1e-4301-ab19-15a6f824d46f.jpg">
+![imagem concept sala 1](/assets/imagens_GDD/00677010-3b1e-4301-ab19-15a6f824d46f.png)
 
 &emsp; Figura 6: A Sala 1 representa a primeira fase do andar, sendo o primeiro contato do jogador com o jogo em si. O espaço é ambientado em um escritório corporativo, levemente arborizado e minimalista. O elemento interativo principal é uma lousa branca, que apresenta um minigame introdutório simples.
 
@@ -639,7 +639,7 @@ A seguir, apresentamos as artes conceituais das salas do primeiro andar, acompan
     
 </div>
 
-<img src = "../assets/imagens_GDD/acf4c649-f5d0-4e28-bfbf-b18bbdef32b5.jpg">
+![imagem concept sala 2](/assets/imagens_GDD/acf4c649-f5d0-4e28-bfbf-b18bbdef32b5.png)
 
 &emsp; Figura 7: A Sala 2 mantém a ambientação da anterior, mas apresenta um desafio mais complexo. O destaque é um cofre interativo que contém um minigame de associação de conceitos. Sua resolução é essencial para que o jogador avance à próxima fase.
 
@@ -649,7 +649,7 @@ A seguir, apresentamos as artes conceituais das salas do primeiro andar, acompan
 
 </div>
 
-<img src = "../assets/imagens_GDD/bcc11d34-6677-4a01-a1ac-e0f16d42ad0c.jpg">
+![imagem concept sala 3](/assets/imagens_GDD/bcc11d34-6677-4a01-a1ac-e0f16d42ad0c.png)
 
 &emsp; Figura 8: A Sala 3 segue a mesma linha estética das anteriores. Nela, o progresso depende da interação com uma máquina de café, que abriga um minigame decisivo para acessar a próxima etapa.
 
@@ -659,7 +659,7 @@ A seguir, apresentamos as artes conceituais das salas do primeiro andar, acompan
 
 </div>
 
-<img src = "../assets/imagens_GDD/f781d8ce-9ad9-4144-9363-123aec5be5bc.jpg">
+![imagem concept sala 4](/assets/imagens_GDD/f781d8ce-9ad9-4144-9363-123aec5be5bc.png)
 
 &emsp; Figura 9: A Sala 4 é o desafio final do andar. O jogador deve confrontar o Big Boss — um espião disfarçado infiltrado na empresa — em uma batalha que representa o clímax da narrativa do level e desbloqueia o acesso ao próximo andar.
 
@@ -716,7 +716,7 @@ https://drive.google.com/file/d/1jIGqagDd6SBmjH_456FfUlw9Ww25dwv4/view?usp=shari
     
 *FIGURA 10 - Gameflow.* 
 
-<img src= "../assets/imagens_GDD/gameflow2.png" > 
+![imagem gameflow](/assets/imagens_GDD/gameflow2.png)
 
 <sub>Fonte: autoria própria (2025)</sub>
 </div>
@@ -1006,7 +1006,7 @@ Onde:
 
 *FIGURA 13 - Tela de Seleção de nome*
 
-![imagem tela de seleção de nome](/assets/imagens_GDD/Tela_nome.jpg)
+![imagem tela de seleção de nome](/assets/imagens_GDD/Tela_nome.png)
 
 <sub>Fonte: autoria própria (2025)</sub>
 
@@ -1032,7 +1032,7 @@ Onde:
 
 *FIGURA 15 - Tela do elevador*
 
-![imagem tela conteúdo](/assets/imagens_GDD/elevador.jpg)
+![imagem tela conteúdo](/assets/imagens_GDD/elevador.png)
 
 <sub>Fonte: autoria própria (2025)</sub>
 
@@ -1126,7 +1126,7 @@ Onde:
 
 *FIGURA 22 - Tela Sala 3*
 
-![imagem tela sala 3](/assets/imagens_GDD/Sala3.jpg)
+![imagem tela sala 3](/assets/imagens_GDD/Sala3.png)
 
 <sub>Fonte: autoria própria (2025)</sub>
 
@@ -1139,7 +1139,7 @@ Onde:
 
 *FIGURA 23 - Tela Minigame 3* 
 
-![imagem tela minigame 3](/assets/imagens_GDD/minigame3.jpg)
+![imagem tela minigame 3](/assets/imagens_GDD/minigame3.png)
 
 <sub>Fonte: autoria própria (2025)</sub>
 
@@ -1153,7 +1153,7 @@ Onde:
 
 *FIGURA 24 - Tela Sala 4* 
 
-![imagem tela sala 4](/assets/imagens_GDD/sala4.jpg)
+![imagem tela sala 4](/assets/imagens_GDD/sala4.png)
 
 <sub>Fonte: autoria própria (2025)</sub>
 
@@ -1166,7 +1166,7 @@ Onde:
 
 *FIGURA 25 - Tela Minigame 4*
 
-![imagem tela minigame 4](/assets/imagens_GDD/minigame4.jpg)
+![imagem tela minigame 4](/assets/imagens_GDD/minigame4.png)
 
 <sub>Fonte: autoria própria (2025)</sub>
 
